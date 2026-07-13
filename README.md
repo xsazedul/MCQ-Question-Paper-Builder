@@ -168,6 +168,12 @@ Go to project
 cd mcq-question-paper-builder
 ```
 
+Go to index
+
+```bash
+start index.html
+```
+
 Open
 
 ```
