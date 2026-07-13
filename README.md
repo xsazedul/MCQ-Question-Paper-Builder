@@ -19,7 +19,7 @@ Create beautiful and professional MCQ question papers with live preview, AI-powe
 
 # 📸 Preview
 
-> Replace these images after uploading screenshots.
+>
 
 <p align="center">
 
@@ -30,7 +30,8 @@ Create beautiful and professional MCQ question papers with live preview, AI-powe
 <p align="center">
 
 <img src="assets/dashboard.png" width="440">
-<img src="assets/screenshots/pdfview.png" width="440">
+
+![image alt](https://github.com/xsazedul/MCQ-Question-Paper-Builder/blob/main/settings.png?raw=true)
 
 </p>
 
@@ -130,7 +131,7 @@ Supports
 
 Instant preview while editing.
 
-No page refresh required.
+![image alt](https://github.com/xsazedul/MCQ-Question-Paper-Builder/blob/main/PDFveiw.png?raw=true)
 
 ---
 
