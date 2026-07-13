@@ -302,6 +302,10 @@ This project is licensed under the MIT License.
 See the LICENSE file for details.
 
 ---
+## 📄 Sample PDF
+
+[📥 Download Sample Question Paper](MCQ_Question_Paper.pdf)
+
 
 <p align="center">
 
