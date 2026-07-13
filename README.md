@@ -150,7 +150,8 @@ Works perfectly on
 Coming Soon
 
 ```
-(https://xsazedul.github.io/mcq-question-paper-builder/)
+https://xsazedul.github.io/MCQ-Question-Paper-Builder/
+
 ```
 
 ---
