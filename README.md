@@ -233,7 +233,7 @@ MCQ-Question-Paper-Builder/
 
 | Dashboard | Question Builder |
 |------------|------------------|
-| ![](assets/screenshots/dashboard.png) | ![](assets/screenshots/editor.png) |
+| ![](assets/dashboard.png) | ![](assets/screenshots/editor.png) |
 
 | Live Preview | PDF Output |
 |---------------|-----------|
