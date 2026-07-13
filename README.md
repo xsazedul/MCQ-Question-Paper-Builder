@@ -29,8 +29,8 @@ Create beautiful and professional MCQ question papers with live preview, AI-powe
 
 <p align="center">
 
-<img src="assets/screenshots/editor.png" width="440">
-<img src="assets/screenshots/pdf-preview.png" width="440">
+<img src="assets/dashboard.png" width="440">
+<img src="assets/screenshots/pdfview.png" width="440">
 
 </p>
 
