@@ -29,9 +29,6 @@ Create beautiful and professional MCQ question papers with live preview, AI-powe
 
 <p align="center">
 
-<img src="assets/dashboard.png" width="440">
-
-![image alt](https://github.com/xsazedul/MCQ-Question-Paper-Builder/blob/main/settings.png?raw=true)
 
 </p>
 
@@ -238,7 +235,7 @@ MCQ-Question-Paper-Builder/
 
 | Live Preview | PDF Output |
 |---------------|-----------|
-| ![](assets/screenshots/preview.png) | ![](assets/screenshots/pdf.png) |
+![image alt](https://github.com/xsazedul/MCQ-Question-Paper-Builder/blob/main/settings.png?raw=true)
 
 ---
 
